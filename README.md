@@ -4,3 +4,5 @@ In this project I'm learning C# and WinForms through creating an RPG by followin
 I'll put working builds in the releases.
 
 (With no warranty plz no sue)
+
+I don't know how much you can fit on a readme in github but I could totally add a devlog here I guess?? 
